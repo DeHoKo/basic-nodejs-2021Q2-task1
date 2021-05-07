@@ -1,0 +1,15 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "With this tool, you will be able to encode and decode a text by [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
